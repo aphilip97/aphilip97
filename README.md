@@ -1,4 +1,4 @@
-👋 Hi, I’m @aphilip97
+👋 Hi, I’m Athul
 
 👀 I’m interested in Frontend and Backend Web Development.
 
